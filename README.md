@@ -46,14 +46,14 @@ Welcome to the **Science Landing Page**, a modern and visually appealing project
 
 Follow these steps to run the project locally:
 
-1. **Clone the repository**:
+1. **Clone the repository**: <br/>
 git clone https://github.com/your-username/science-landing-page.git <br/>
 cd science-landing-page
    
-2. **Install dependencies**:
+2. **Install dependencies**: <br/>
 npm install
 
-3. **Run the development server**:
+3. **Run the development server**: <br/>
 npm run dev
-
+<br/>
 Visit http://localhost:3000 in your browser to view the landing page in action.
