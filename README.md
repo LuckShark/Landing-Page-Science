@@ -1,2 +1,2 @@
-npm run build
+npm run build <br/>
 npx serve@latest out
